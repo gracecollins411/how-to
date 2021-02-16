@@ -4,7 +4,7 @@ h1 {
   padding: 0 0.5rem;
   font-size: 4em; /* 40px/16=2.5em */
   font-family: copperplate;
-  color: #001f4d;
+  color: #191970;
   /* opacity: 1;*/
 }
 h2 {
@@ -12,7 +12,7 @@ h2 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: copperplate;
-  color: #003d99;
+  color: #4169E1;
   /* opacity: 1;*/
 }
 h3 {
@@ -20,7 +20,7 @@ h3 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: cursive;
-  color: #003d99;
+  color: #663399;
   /* opacity: 1;*/
 }
 
@@ -33,7 +33,7 @@ li {
 a {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-  color: #0052cc;
+  color: #FF69B4;
   opacity: 1;
 }
 p {
