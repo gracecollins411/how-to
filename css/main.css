@@ -1,5 +1,6 @@
 
 h1 {
+  { text-align: center }
   display: inline-block;
   padding: 0 0.5rem;
   font-size: 4em; /* 40px/16=2.5em */
@@ -8,9 +9,10 @@ h1 {
   /* opacity: 1;*/
 }
 h2 {
+  { text-align: center }
   display: inline-block;
   padding: 0 0.5rem;
-  font-size: 2em; /* 40px/16=2.5em */
+  font-size: 3em; /* 40px/16=2.5em */
   font-family: copperplate;
   color: #663399;
   /* opacity: 1;*/
