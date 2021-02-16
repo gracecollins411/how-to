@@ -15,21 +15,30 @@ h2 {
   color: #003d99;
   /* opacity: 1;*/
 }
+h3 {
+  display: inline-block;
+  padding: 0 0.5rem;
+  font-size: 2em; /* 40px/16=2.5em */
+  font-family: cursive;
+  color: #003d99;
+  /* opacity: 1;*/
+}
+
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
-  font-family: monaco;
+  font-family: optima;
     color: #0052cc;
     opacity: 1;
 }
 a {
   font-size: 1.5em; /* 40px/16=2.5em */
-  font-family: monaco;
+  font-family: optima;
   color: #0052cc;
   opacity: 1;
 }
 p {
   font-size: 1.5em; /* 40px/16=2.5em */
-  font-family: monaco;
+  font-family: optima;
   color: #0052cc;
   opacity: 1;
 }
