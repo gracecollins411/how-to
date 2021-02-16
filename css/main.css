@@ -4,7 +4,7 @@ h1 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: copperplate;
-  color: #ffcc66;
+  color: #001f4d;
   /* opacity: 1;*/
 }
 h2 {
@@ -12,29 +12,29 @@ h2 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: monaco;
-  color: #F2A47A;
+  color: #003d99;
   /* opacity: 1;*/
 }
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: monaco;
-    color: #ffa64d;
+    color: #0052cc;
     opacity: 1;
 }
 a {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: monaco;
-  color: #F2A47A;
+  color: #0052cc;
   opacity: 1;
 }
 p {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: monaco;
-  color: #F2A47A;
+  color: #0052cc;
   opacity: 1;
 }
 body {
-  background-color: #ffffe6;
+  background-color: #e6f0ff;
 }
 
 /* Flexible images */
