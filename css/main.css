@@ -4,8 +4,6 @@ h1 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: copperplate;
-   border-style: dotted;
-  /* max-width: 140px;*/
   color: #ffcc66;
   /* opacity: 1;*/
 }
@@ -14,8 +12,6 @@ h2 {
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
   font-family: monaco;
-  border-style: dotted;
-  /* max-width: 80px;*/
   color: #F2A47A;
   /* opacity: 1;*/
 }
