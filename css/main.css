@@ -3,7 +3,7 @@ h1 {
   display: inline-block;
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
-  font-family: monaco;
+  font-family: copperplate;
    border-style: dotted;
   /* max-width: 140px;*/
   color: #ffcc66;
@@ -13,7 +13,7 @@ h2 {
   display: inline-block;
   padding: 0 0.5rem;
   font-size: 2em; /* 40px/16=2.5em */
-  font-family: cursive;
+  font-family: monaco;
   border-style: dotted;
   /* max-width: 80px;*/
   color: #F2A47A;
@@ -21,13 +21,13 @@ h2 {
 }
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
-  font-family: papyrus;
+  font-family: monaco;
     color: #ffa64d;
     opacity: 1;
 }
-p {
+a {
   font-size: 1.5em; /* 40px/16=2.5em */
-  font-family: papyrus;
+  font-family: monaco;
   color: #F2A47A;
   opacity: 1;
 }
