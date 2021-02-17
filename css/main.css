@@ -39,7 +39,11 @@ p {
   opacity: 1;
 }
 body {
+  font-family: sans-serif;
   background-color: #e6f0ff;
+  max-width: 40em;
+  padding: 0 5%;
+  margin: 0 auto;
 }
 
 /* Flexible images */
