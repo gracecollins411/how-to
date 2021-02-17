@@ -44,14 +44,12 @@ body {
   max-width: 40em;
   padding: 0 5%;
   margin: 0 auto;
-  min-device-width: 320px;
-  max-device-width: 480px;
 }
 
 /* Flexible images */
 
 img {
-  max-width: 50%;
+  max-width: 75%;
   height: auto;
 }
  
