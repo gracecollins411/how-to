@@ -48,3 +48,19 @@ img {
   max-width: 50%;
   height: auto;
 }
+img alt="Print" {
+  max-width: 25%;
+  height: auto;
+}
+img alt="Push" {
+  max-width: 25%;
+  height: auto;
+}
+img alt="Turn on" {
+  max-width: 25%;
+  height: auto;
+}
+img alt="Plug" {
+  max-width: 25%;
+  height: auto;
+}
