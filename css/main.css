@@ -70,14 +70,34 @@ section class="steps" id="steps" {
   font-size: 3em;
 }
 
-section class="img" id="img" {
-  max-width: 60%;
-  height: auto;
-}
-
 /* Flexible images */
 
 img {
   max-width: 100%;
   height: auto;
+}
+
+img alt="Push"{
+  max-width: 50%;
+  height:auto;
+}
+
+img alt="Save"{
+  max-width: 50%;
+  height:auto;
+}
+
+img alt="Plug"{
+  max-width: 50%;
+  height:auto;
+}
+
+img alt="Click"{
+  max-width: 50%;
+  height:auto;
+}
+
+img alt="Turn on"{
+  max-width: 50%;
+  height:auto;
 }
