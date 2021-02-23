@@ -3,20 +3,20 @@ h1 {
   text-align: center;
   font-size: 4em; /* 40px/16=2.5em */
   font-family: courier;
-  color: #001E50;
+  color: #ced4da;
   /* opacity: 1;*/
 }
 h2 {
   text-align: center;
   font-size: 3em; /* 40px/16=2.5em */
   font-family: courier new;
-  color: #01698E;
+  color: #6c757d;
   /* opacity: 1;*/
 }
 h3 {
   font-size: 2em; /* 40px/16=2.5em */
   font-family: courier new;
-  color: #028B9B;
+  color: #adb5bd;
   /* opacity: 1;*/
 }
 
@@ -26,31 +26,31 @@ li a {
 
 h3 li {
   font-family: courier new;
-  color: #028B9B;
+  color: #adb5bd;
 }
 
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-    color: #FB682A;
+    color: #f8f9fa;
     opacity: 1;
 }
 
 a {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-  color: #72B1A6;
+  color: #6c757d;
   opacity: 1;
 }
 p {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-  color: #FB682A;
+  color: #f8f9fa;
   opacity: 1;
 }
 body {
   font-family: sans-serif;
-  background-color: #F9DDAE;
+  background-color: #212529;
   max-width: 40em;
   padding: 0 5%;
   margin: 0 auto;
@@ -61,7 +61,7 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   font-family: courier new;
-  color: #72B1A6;
+  color: #6c757d;
   margin-top: 1em;
 
 }
