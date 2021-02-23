@@ -70,6 +70,11 @@ section class="steps" id="steps" {
   font-size: 3em;
 }
 
+section class="img" id="img" {
+  max-width: 60%;
+  height: auto;
+}
+
 /* Flexible images */
 
 img {
