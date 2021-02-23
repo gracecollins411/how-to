@@ -66,38 +66,12 @@ body {
 
 }
 
-section class="steps" id="steps" {
-  font-size: 3em;
-}
 
 /* Flexible images */
 
 img {
   max-width: 50%;
   height: auto;
+  text-align: center;
 }
 
-img="Push"{
-  max-width: 50%;
-  height:auto;
-}
-
-img="Save"{
-  max-width: 50%;
-  height:auto;
-}
-
-img="Plug"{
-  max-width: 50%;
-  height:auto;
-}
-
-img="Print"{
-  max-width: 50%;
-  height:auto;
-}
-
-img="Turn on"{
-  max-width: 50%;
-  height:auto;
-}
