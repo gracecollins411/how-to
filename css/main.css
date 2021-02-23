@@ -3,44 +3,54 @@ h1 {
   text-align: center;
   font-size: 4em; /* 40px/16=2.5em */
   font-family: courier;
-  color: #191970;
+  color: #001E50;
   /* opacity: 1;*/
 }
 h2 {
   text-align: center;
   font-size: 3em; /* 40px/16=2.5em */
   font-family: courier new;
-  color: #663399;
+  color: #01698E;
   /* opacity: 1;*/
 }
 h3 {
   font-size: 2em; /* 40px/16=2.5em */
-  font-family: optima;
-  color: #0052cc;
+  font-family: courier new;
+  color: #028B9B;
   /* opacity: 1;*/
+}
+
+li a {
+  font-size: 1em; /* 40px/16=2.5em */
+}
+
+h3 li {
+  font-family: courier new;
+  color: #028B9B;
 }
 
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-    color: #0052cc;
+    color: #FB682A;
     opacity: 1;
 }
+
 a {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-  color: #FF69B4;
+  color: #72B1A6;
   opacity: 1;
 }
 p {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
-  color: #0052cc;
+  color: #FB682A;
   opacity: 1;
 }
 body {
   font-family: sans-serif;
-  background-color: #e6f0ff;
+  background-color: #F9DDAE;
   max-width: 40em;
   padding: 0 5%;
   margin: 0 auto;
@@ -51,6 +61,7 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   font-family: courier new;
+  color: #72B1A6;
   margin-top: 1em;
 
 }
@@ -61,4 +72,3 @@ img {
   max-width: 100%;
   height: auto;
 }
- 
