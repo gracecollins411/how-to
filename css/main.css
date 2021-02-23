@@ -46,6 +46,14 @@ body {
   margin: 0 auto;
 }
 
+.byline {
+  font-size: 1em;
+  font-weight: bold
+  text-transform: uppercase;
+  margin-top: 1em
+
+}
+
 /* Flexible images */
 
 img {
