@@ -66,6 +66,10 @@ body {
 
 }
 
+section class="steps" id="steps" {
+  font-size: 2em
+}
+
 /* Flexible images */
 
 img {
