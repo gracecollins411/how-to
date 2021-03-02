@@ -29,6 +29,11 @@ h3 li {
   color: #adb5bd;
 }
 
+ol {
+  font-family: courier new;
+  color: #adb5bd;
+}
+
 li {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
@@ -42,12 +47,14 @@ a {
   color: #6c757d;
   opacity: 1;
 }
+
 p {
   font-size: 1.5em; /* 40px/16=2.5em */
   font-family: optima;
   color: #f8f9fa;
   opacity: 1;
 }
+
 body {
   font-family: sans-serif;
   background-color: #212529;
