@@ -35,21 +35,21 @@ ol {
 }
 
 li {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; /* 40px/16=2.5em */
   font-family: optima;
     color: #f8f9fa;
     opacity: 1;
 }
 
 a {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; /* 40px/16=2.5em */
   font-family: optima;
   color: #6c757d;
   opacity: 1;
 }
 
 p {
-  font-size: 1.5em; /* 40px/16=2.5em */
+  font-size: 1em; /* 40px/16=2.5em */
   font-family: optima;
   color: #f8f9fa;
   opacity: 1;
