@@ -55,6 +55,12 @@ h4 {
   border-right: 0.1em solid #f8f9fa;
 }
 
+summary {
+  font-family: courier new;
+  font-weight: bold;
+  color: #adb5bd;
+}
+
 li a {
   font-size: 1em; /* 40px/16=2.5em */
   font-weight: normal;
